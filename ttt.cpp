@@ -1,3 +1,9 @@
+/*
+Play TicTacToe 2 Players in C++
+Author: Ayan Masud
+Date: 9/16/24
+*/
+
 #include <iostream>
 #include <cstring>
 
